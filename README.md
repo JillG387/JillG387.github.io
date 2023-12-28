@@ -20,4 +20,4 @@
 
 #### I'm immensely grateful for the knowledge and confidence gained through this course. 
 
-#### This website stands as a testament to my passion for coding, design, and storytelling. It's not merely a resume; it's a digital portal into my professional world, meticulously crafted to engage, inform, and inspire.
+#### This website showcases my passion for coding, design, and storytelling. It's not merely a resume; it's a digital portal into my professional world, meticulously crafted to engage, inform, and inspire.
