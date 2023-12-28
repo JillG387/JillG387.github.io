@@ -1,4 +1,5 @@
-# Resume Portfolio Website - Final project for CS50x Introduction to Computer Science
+# Resume Portfolio Website 
+## Final project for CS50x Introduction to Computer Science
 
 ### Description:
 
