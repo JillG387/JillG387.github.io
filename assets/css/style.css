@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+:root {
+    --color-body: #E1E7DF
+    --color-heading: #f4f6f3
+    --color-base: #451e31
+    --color-base2: #210d15
+    --color-brand: #753e5d
+    --color-brand2: #ab748f
+    --sidebar-width: 240px;
+    --font-base: "Quicksand";
+}
+
+body {
+    background-color: #210d15;
+    color: #E1E7DF;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: #f4f6f3;
+    font-weight: 700;
+}
+
+p {
+    font-size: large;
+}
+
+a {
+    text-decoration: none;
+    color: #E1E7DF;
+    transition: all 0.4s ease;
+}
+
+a:hover {
+    color: #AB748F;
+}
+
+a:link {
+    color: #bc8fa5;
+}
+
+img {
+    width: 100%;
+}
+
+.text-brand {
+    color: #bc8fa5;
+}
+
+.full-height {
+    min-height: 100vh;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+}
+
+.shadow-effect {
+    transition: all 0.5s;
+}
+
+.shadow-effect:hover {
+    box-shadow: -6px 6px 0 0 #AB748F;
+}
+
+/* Navigation */
+.navbar {
+    background-color: #451e31;
+}
+.navbar .nav-link {
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.navbar .nav-link.active {
+    color: #d9bfcc;
+}
+
+.nav-link:hover {
+    color: #AB748F;
+}
+
+@media (min-width: 992px) {
+    .navbar {
+        min-height: 100vh;
+        width: 15%;
+        background: linear-gradient(rgba(69, 30, 49, 0.8), rgba(69, 30, 49, 0.8)), url(../images/sidebar-img-2.jpg);
+        background-position: top;
+    }
+
+    .navbar-brand img {
+        border: 8px solid #AB748F;
+    }
+
+    /* Content Wrapper */
+    #content-wrapper {
+        padding-left: 240px;
+    }
+}
+
+/* Button */
+.btn {
+    padding: 12px 28px;
+    font-weight: 700;
+}
+
+.btn-brand {
+    background-color: #AB748F;
+    border-color: #AB748F;
+    color: #451e31;
+}
+
+.btn-brand:hover,
+.btn-brand:focus {
+    background-color: #934D75;
+    color: #451e31;
+    border-color: #934D75;
+}
+
+.linkcustom {
+    font-weight: 700;
+    position: relative;
+}
+
+.linkcustom::after {
+    content: "";
+    width: 0%;
+    height: 2px;
+    background-color: #AB748F;
+    position: absolute;
+    left: 0;
+    top: 110%;
+    transition: all 0.4s;
+}
+
+.linkcustom:hover::after {
+    width: 100%;
+}
+
+/* CARD */
+.card-custom .card-custom-image {
+    overflow: hidden;
+}
+
+.card-custom .card-custom-image img {
+    transition: all 0.4s ease;
+}
+
+.card-custom:hover .card-custom-image img {
+    transform: scale(1.1);
+}
+
+
+/* SOCIAL ICONS */
+.social-icons a {
+    width: 40px;
+    height: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #753E5D;
+    border-radius: 100px;
+    font-size: 24px;
+}
