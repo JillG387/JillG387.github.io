@@ -103,26 +103,6 @@ img {
     }
 }
 
-/* Ensure resume section has no unintended margins/padding */
-#resume, .container, .row {
-    padding-left: 0 !important;
-    margin-left: 0 !important;
-    padding-right: 0 !important;
-    margin-right: 0 !important;
-}
-
-/* Override Bootstrap padding on larger screens if necessary */
-#resume.px-lg-5 {
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-}
-
-/* Fix potential flexbox alignment issues */
-.d-flex {
-    align-items: stretch !important;
-    justify-content: flex-start !important;
-}
-
 /* Button */
 .btn {
     padding: 12px 28px;
