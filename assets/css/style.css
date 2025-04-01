@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 
 :root {
-    --color-body: #E1E7DF
-    --color-heading: #f4f6f3
-    --color-base: #451e31
-    --color-base2: #210d15
-    --color-brand: #753e5d
-    --color-brand2: #ab748f
+    --color-body: #E1E7DF;
+    --color-heading: #f4f6f3;
+    --color-base: #451e31;
+    --color-base2: #210d15;
+    --color-brand: #753e5d;
+    --color-brand2: #ab748f;
     --sidebar-width: 240px;
     --font-base: "Quicksand";
 }
@@ -101,6 +101,26 @@ img {
     #content-wrapper {
         padding-left: 240px;
     }
+}
+
+/* Ensure resume section has no unintended margins/padding */
+#resume, .container, .row {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+    padding-right: 0 !important;
+    margin-right: 0 !important;
+}
+
+/* Override Bootstrap padding on larger screens if necessary */
+#resume.px-lg-5 {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+/* Fix potential flexbox alignment issues */
+.d-flex {
+    align-items: stretch !important;
+    justify-content: flex-start !important;
 }
 
 /* Button */
