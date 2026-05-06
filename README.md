@@ -16,6 +16,4 @@
 
 #### I'm particularly proud of the technical skills I developed during this project. I learned a lot about using Bootstrap, JavaScript, and creating a positive user experience.
 
-#### I'm grateful for the knowledge and confidence gained through this course. This website showcases my passion for creating and coding my own work, design, and storytelling. It's more than a resume; it's a digital portal into my professional world, crafted to both engage, and inform.
-
-#### UPDATE: I am currently using this site as a website portfolio so it's content will gradutally evolve. 
+#### I'm grateful for the knowledge and confidence gained through this course. This website showcases my passion for creating and coding my own work, design, and storytelling. It's more than a resume; it's a digital portal into my professional world, crafted to both engage, and inform. 
