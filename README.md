@@ -1,19 +1,17 @@
 # Resume Portfolio Website 
-## Final project for CS50x Introduction to Computer Science
+## Originally built as a final project for CS50x: Introduction to Computer Science
 ## https://jillg387.github.io/
 
 ### Description:
 
-#### For my final project, I wanted to create a more engaging way to showcase my skills. Instead of a traditional resume, I built an online portfolio website that blends design and functionality. I used Bootstrap, JavaScript, HTML, and CSS to make a website that looks great and is easy to use. As visitors scroll down, my content gradually appears, creating a more dynamic experience.
+#### This repository hosts my professional portfolio website. The site demonstrates my ability to execute and maintain polished digital and content assets, combining technical skills with structured, detail‑oriented delivery.
 
-#### I chose a deep purple color scheme that I find both professional and visually appealing. I also used the AOS animation library to make the content appear smoothly.
+#### The site was built using Bootstrap, HTML, CSS, and JavaScript, with a focus on clarity, usability, and maintainable structure. Subtle animation is used to support readability and navigation without distracting from content.
 
-#### My headshot is artfully enhanced with generative AI technology from Adobe's Creative Suite. The background is an AI-generated image.
+#### Navigation is intentionally simple and intuitive. The site serves as a focused entry point, with selected examples highlighted directly and additional work linked externally.
 
-#### Navigation is simple and intuitive. I used Bootstrap's framework and visually appealing icons.
+#### **Status:** This is a living portfolio site that I maintain and periodically update to reflect current projects and recent work.
 
-#### To maintain focus, I've opted to link my comprehensive portfolio of work externally. This way, people can see my curent work and learn more about me.  
+### Background
 
-#### I'm particularly proud of the technical skills I developed during this project. I learned a lot about using Bootstrap, JavaScript, and creating a positive user experience.
-
-#### I'm grateful for the knowledge and confidence gained through this course. This website showcases my passion for creating and coding my own work, design, and storytelling. It's more than a resume; it's a digital portal into my professional world, crafted to both engage, and inform. 
+#### The site was originally created as a final project for HarvardX’s CS50x course and has since evolved beyond the course into an actively maintained professional portfolio.
