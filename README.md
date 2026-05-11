@@ -2,7 +2,7 @@
 ## Originally built as a final project for CS50x: Introduction to Computer Science
 ## https://jillg387.github.io/
 
-### Description:
+### Description
 
 #### This repository hosts my professional portfolio website. The site demonstrates my ability to execute and maintain polished digital and content assets, combining technical skills with structured, detail‑oriented delivery.
 
